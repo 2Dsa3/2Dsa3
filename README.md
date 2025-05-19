@@ -11,6 +11,6 @@ proyectos y mis intereses.
 * Lugar de residencia: [Guayaquil, Ecuador
 * Sitio web: [Tu sitio web] 
 ## Proyectos 
-* [[Lista de tus proyectos] ](https://github.com/nhn2004/DashboardFatalities)
+* [Dasgboard Fatalities ](https://github.com/nhn2004/DashboardFatalities)
 ## Intereses 
 * Data Science
