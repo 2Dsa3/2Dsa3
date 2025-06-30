@@ -40,6 +40,12 @@ Here you can learn more about who I am, the projects I've worked on, and the top
   Development of professional website for advertising a service.  
   **Technologies:** Javascript, Html and Tailwind CSS  
   [View on GitHub](https://github.com/2Dsa3/Sengiconsa)
+
+- **My Web Portfolio**
+  Created a responsive website to showcase personal projects and skills 
+  **Technologies:** Javascript, Html and Tailwind CSS
+  [View on GitHub](https://2dsa3.github.io/Curriculum/portfolio.html)
+  
 ---
 
 ## 🛠️ Technologies Learned
