@@ -1,65 +1,69 @@
-# 🌐 Mi Sitio Personal
+# 🌐 My Personal Site
 
-Bienvenido a mi espacio en la web. Aquí podrás conocer más sobre quién soy, los proyectos en los que he trabajado y los temas que más me apasionan.
+# Welcome to My Web Space
 
----
-
-## 📑 Contenido
-
-- [Información Personal](#información-personal)
-- [Proyectos Destacados](#proyectos-destacados)
-- [Áreas de Interés](#áreas-de-interés)
+Here you can learn more about who I am, the projects I've worked on, and the topics I'm passionate or obsessed about.
 
 ---
 
-## 🧑 Información Personal
+## 📑 Contents
 
-- **Nombre:** David Sumba  
-- **Ocupación:** Estudiante de Ingeniería en Computación  
-- **Residencia:** Guayaquil, Ecuador  
-- **Sitio Web:** [Tu sitio web](#) *(próximamente)*
+- [Personal Information](#personal-information)
+- [Featured Projects](#featured-projects)
+- [Areas of Interest](#areas-of-interest)
 
 ---
 
-## 💻 Proyectos Destacados
+## 🧑 Personal Information
+
+- **Name:** David Sumba  
+- **Occupation:** Computer Science Student  
+- **Location:** Guayaquil, Ecuador  
+- **Web Portfolio:** [Your website](#https://2dsa3.github.io/Curriculum/portfolio.html) 
+- **Website:** [Your website](#) *(coming soon)*
+
+---
+
+## 💻 Featured Projects
 
 - **Dashboard Fatalities**  
-  Visualización interactiva y dinámica de datos sobre fatalidades para facilitar el análisis y toma de decisiones.  
-  **Tecnologías:** JavaScript, D3.js, HTML5, CSS3  
-  [Ver en GitHub](https://github.com/nhn2004/DashboardFatalities)
+  An interactive and dynamic data visualization dashboard for analyzing fatalities and supporting decision-making.  
+  **Technologies:** JavaScript, D3.js, HTML5, CSS3  
+  [View on GitHub](https://github.com/nhn2004/DashboardFatalities)
 
-- **Análisis Estadístico de Experimento de Vóley**  
-  Proyecto orientado al análisis estadístico y visualización de datos de experimentos deportivos para evaluar el desempeño en voleibol.  
-  **Tecnologías:** Python, Pandas, Matplotlib, Jupyter Notebook  
-  [Ver en GitHub](https://github.com/2Dsa3/ProyectoEstadistica-Volley)
+- **Statistical Analysis of Volleyball Experiment**  
+  A project focused on statistical analysis and data visualization of sports experiments to evaluate volleyball performance.  
+  **Technologies:** Python, Pandas, Matplotlib, Jupyter Notebook  
+  [View on GitHub](https://github.com/2Dsa3/ProyectoEstadistica-Volley)
 
-- **Analizador Sintáctico**  
-  Desarrollo de un analizador sintáctico para lenguajes de programación, aplicando técnicas de compilación y teoría de lenguajes.  
-  **Tecnologías:** Python, Lex y Yacc, PLY  
-  [Ver en GitHub](https://github.com/2Dsa3/PROYECTOS-LENGUAJES-DE-PROGRAMACION-2024)
+- **Professional Web Page** (In progress)
+  Development of professional website for advertising a service.  
+  **Technologies:** Javascript, Html and Tailwind CSS  
+  [View on GitHub]([https://github.com/2Dsa3/PROYECTOS-LENGUAJES-DE-PROGRAMACION-2024](https://github.com/2Dsa3/Sengiconsa))
+---
+
+## 🛠️ Technologies Learned
+
+Throughout the course, I have worked with various technologies, tools, and libraries that enabled me to build complete and functional projects. Some of the most relevant include:
+
+- **JavaScript and D3.js:** For creating interactive and dynamic web-based data visualizations.  
+- **Python and Pandas:** For data analysis and efficient handling of large datasets.  
+- **Matplotlib:** For generating graphs and statistical visualizations.  
+- **Lex, Yacc, and PLY:** Tools for developing compilers and syntax analyzers.  
+- **HTML5 and CSS3:** For building and styling responsive, modern websites.
+- **Ruby:** For Data scrapping
 
 ---
 
-## 🛠️ Tecnologías Aprendidas
+## 🚀 Areas of Interest
 
-Durante el curso he trabajado con diversas tecnologías, herramientas y librerías, que me han permitido desarrollar proyectos completos y funcionales. Algunas de las más relevantes incluyen:
+- Software Development
+- Data Science
+- Finance
+- Artificial Intelligence  
 
-- **JavaScript y D3.js:** Para crear visualizaciones de datos interactivas y dinámicas en la web.  
-- **Python y Pandas:** Para análisis de datos y manipulación eficiente de grandes conjuntos de información.  
-- **Matplotlib:** Para la creación de gráficos y visualizaciones estadísticas.  
-- **Lex, Yacc y PLY:** Herramientas para el desarrollo de compiladores y analizadores sintácticos.  
-- **HTML5 y CSS3:** Para estructurar y diseñar sitios web responsivos y modernos.
 
 ---
 
-## 🚀 Áreas de Interés
-
-- Ciencia de Datos (Data Science)  
-- Visualización de Datos  
-- Inteligencia Artificial  
-- Desarrollo Web
-
----
-
-> “La tecnología no solo cambia lo que hacemos, sino también quiénes somos.”  
+> “Technology doesn’t just change what we do—it changes who we are.”  
 > — Sherry Turkle
