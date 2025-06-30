@@ -28,7 +28,7 @@ Here you can learn more about who I am, the projects I've worked on, and the top
 
 - **Dashboard Fatalities**  
   An interactive and dynamic data visualization dashboard for analyzing fatalities and supporting decision-making.  
-  **Technologies:** JavaScript, D3.js, HTML5, CSS3  
+  **Technologies:** Python, Ruby, Dash and Plotly
   [View on GitHub](https://github.com/nhn2004/DashboardFatalities)
 
 - **Statistical Analysis of Volleyball Experiment**  
