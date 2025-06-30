@@ -4,6 +4,7 @@
 
 Here you can learn more about who I am, the projects I've worked on, and the topics I'm passionate or obsessed about.
 
+#### Check out my [Web Portfolio!](https://2dsa3.github.io/Curriculum/portfolio.html)
 ---
 
 ## 📑 Contents
@@ -19,7 +20,6 @@ Here you can learn more about who I am, the projects I've worked on, and the top
 - **Name:** David Sumba  
 - **Occupation:** Computer Science Student  
 - **Location:** Guayaquil, Ecuador  
-- **Web Portfolio:** [Your website](#https://2dsa3.github.io/Curriculum/portfolio.html) 
 - **Website:** [Your website](#) *(coming soon)*
 
 ---
@@ -40,11 +40,6 @@ Here you can learn more about who I am, the projects I've worked on, and the top
   Development of professional website for advertising a service.  
   **Technologies:** Javascript, Html and Tailwind CSS  
   [View on GitHub](https://github.com/2Dsa3/Sengiconsa)
-
-- **My Web Portfolio**
-  Created a responsive website to showcase personal projects and skills 
-  **Technologies:** Javascript, Html and Tailwind CSS
-  [View on GitHub](https://2dsa3.github.io/Curriculum/portfolio.html)
   
 ---
 
