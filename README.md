@@ -39,7 +39,7 @@ Here you can learn more about who I am, the projects I've worked on, and the top
 - **Professional Web Page** (In progress)
   Development of professional website for advertising a service.  
   **Technologies:** Javascript, Html and Tailwind CSS  
-  [View on GitHub]([https://github.com/2Dsa3/PROYECTOS-LENGUAJES-DE-PROGRAMACION-2024](https://github.com/2Dsa3/Sengiconsa))
+  [View on GitHub](https://github.com/2Dsa3/Sengiconsa)
 ---
 
 ## 🛠️ Technologies Learned
