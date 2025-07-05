@@ -60,8 +60,8 @@ Throughout the course, I have worked with various technologies, tools, and libra
 
 - Software Development
 - Data Science
+- Artificial Intelligence
 - Finance
-- Artificial Intelligence  
 
 
 ---
