@@ -31,12 +31,14 @@ Here you can learn more about who I am, the projects I've worked on, and the top
   **Technologies:** JavaScript, HTML5, CSS3, TailwindCSS, Gemini 2.5 API
   
   [Soon on Production]()
+  
 
 - **Professional Landing Web Page** 
   Development of professional website for advertising a service.  
   **Technologies:** Javascript, Html and Tailwind CSS
   
   [View on Production](https://landing-puce-omega.vercel.app/)
+  
 
 - **Dashboard Fatalities**  
   An interactive and dynamic data visualization dashboard for analyzing fatalities and supporting decision-making.  
