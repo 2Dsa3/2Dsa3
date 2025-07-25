@@ -28,17 +28,20 @@ Here you can learn more about who I am, the projects I've worked on, and the top
 
 - **SL8 – AI-Powered Whiteboard Assistant**  
   A hackathon-winning web app that helps users solve algorithmic problems visually and interactively. SL8 interprets natural language and drawings to guide users through problem-solving, offering tiered     assistance from clarification to solution.  
-  **Technologies:** JavaScript, HTML5, CSS3, TailwindCSS, Gemini 2.5 API  
+  **Technologies:** JavaScript, HTML5, CSS3, TailwindCSS, Gemini 2.5 API
+  
   [Soon on Production]()
 
 - **Professional Landing Web Page** 
   Development of professional website for advertising a service.  
-  **Technologies:** Javascript, Html and Tailwind CSS  
-  [View on Production]([https://github.com/2Dsa3/Sengiconsa](https://landing-puce-omega.vercel.app/))
+  **Technologies:** Javascript, Html and Tailwind CSS
+  
+  [View on Production](https://landing-puce-omega.vercel.app/)
 
 - **Dashboard Fatalities**  
   An interactive and dynamic data visualization dashboard for analyzing fatalities and supporting decision-making.  
   **Technologies:** Python, Ruby, Dash and Plotly
+  
   [View on GitHub](https://github.com/nhn2004/DashboardFatalities)
   
 ---
