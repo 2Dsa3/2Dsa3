@@ -20,7 +20,6 @@ Here you can learn more about who I am, the projects I've worked on, and the top
 - **Name:** David Sumba  
 - **Occupation:** Computer Science Student  
 - **Location:** Guayaquil, Ecuador  
-- **Website:** [Your website](#) *(coming soon)*
 
 ---
 
