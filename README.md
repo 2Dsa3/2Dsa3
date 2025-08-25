@@ -84,4 +84,4 @@ These technologies have helped me think more clearly, build more effectively, an
 ---
 
 > “At its core, technology is just evolution — a faster way to trade, to learn, to connect. Primitive needs, modern tools. I build not for novelty, but to sharpen what makes us human”  
-> — Me
+
