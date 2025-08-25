@@ -26,7 +26,7 @@ Here you can learn more about who I am, the projects I've worked on, and the top
 ## 💻 Featured Projects
 
 - **SL8 – AI-Powered Whiteboard Assistant**  
-  A hackathon-winning web app that helps users solve algorithmic problems visually and interactively. SL8 interprets natural language and drawings to guide users through problem-solving, offering tiered     assistance from clarification to solution.  
+  A hackathon-winning web app that helps users solve algorithmic problems visually and interactively. SL8 interprets natural language and drawings to guide users through problem-solving, offering tiered     assistance from clarification to solution.
   **Technologies:** JavaScript, HTML5, CSS3, TailwindCSS, Gemini 2.5 API
   
   [Soon on Production]()
