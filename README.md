@@ -30,6 +30,13 @@ Here you can learn more about who I am, the projects I've worked on, and the top
   **Technologies:** JavaScript, HTML5, CSS3, TailwindCSS, Gemini 2.5 API
   
   [Soon on Production]()
+
+
+- **PymeRisk – AI-Driven Financial Risk Evaluator**  
+  A hackathon-winning web app that evaluates the credit risk of Ecuadorian SMEs in seconds using AI. PymeRisk combines financial statements, digital behavior, and commercial references to generate an alternative risk score and provide actionable insights via an interactive dashboard.
+  **Technologies:** Python, Streamlit, Azure OpenAI (GPT-4o + o3-mini), PyPDF2
+  
+  [View on Production](https://deploy-pymerisk-dhtmtkfxynnrd6wqzsztbu.streamlit.app/)
   
 
 - **Professional Landing Web Page** 
